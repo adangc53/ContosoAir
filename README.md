@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/adanemo666/curso/_apis/build/status/adangc53.ContosoAir?branchName=master)](https://dev.azure.com/adanemo666/curso/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
